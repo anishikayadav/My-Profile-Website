@@ -79,6 +79,45 @@ html {
     color:fuchsia;
 }
 
+a {
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+}
+
+.article:hover {
+    color:fuchsia;
+}
 
 
-/*ADD CSS FROM HERE */
+#writings a
+{
+text-shadow: none !important;
+text-decoration: underline !important;
+color: blue !important;
+}
+
+#contact
+{
+background: firebrick;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+
+
+
+
+ jctbbjjhfdfsfhgafbnxcNHanhujabgtscsv
